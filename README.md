@@ -1,5 +1,3 @@
-![Shape3](RackMultipart20220504-1-hua9rk_html_6945481ee3818951.gif) ![Shape2](RackMultipart20220504-1-hua9rk_html_336452e8fede05f5.gif) ![Shape1](RackMultipart20220504-1-hua9rk_html_6945481ee3818951.gif)
-
 _Jacob Baker HPV212_
 
 # _CPSC4530 Assignment 1 Report_
