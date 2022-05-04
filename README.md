@@ -1,7 +1,5 @@
 _Jacob Baker HPV212_
 
-# _CPSC4530 Assignment 1 Report_
-
 Professor Wu
 
 # ­­Dataset 1 – Monthly Average Home Prices in Chattanooga Vs. Average US Salary from 2000 – 2022
